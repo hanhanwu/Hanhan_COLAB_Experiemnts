@@ -16,10 +16,15 @@ Experiements using Google COLAB
   * Image Compression
     * It's better to use grey photo for compression, otherwise `VT` won't have enough dimension to be used in decomposition when it's color photo
     * One thing noticed here is, even when I was trying to use GPU here, a simple notebook like this one will occupy RAM space fast.
-  * [Used in SpectralCoclustering][4]
-    * SVD is used to find singular vectors
+  * [Used in Spectral Clustering][4]
+    * Not very straightforward to see SVD is used here. The major part in this algorithm is to find eigenvector, which is also the core part in SVD.
+    * Spectural Clustering is using dimensional reduction idea to project the data into a new space, so that clustering can be easier. For some onconvex dataset, methods like kmeans own't work well, but spectural clustering can handle well.
+  * [Used in Spectral CoClustering][5]
+    * SVD is used to find singular vectors. It's more straightforward to see SVD used here.
+    * But to visualize biclustering here, can be confusing.
 
 [1]:https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d
 [2]:https://github.com/hanhanwu/Hanhan_COLAB_Experiemnts/blob/master/SVD_intro.ipynb
 [3]:https://github.com/hanhanwu/Hanhan_COLAB_Experiemnts/blob/master/SVD_application.ipynb
-[4]:https://scikit-learn.org/stable/modules/generated/sklearn.cluster.bicluster.SpectralCoclustering.html
+[4]:https://scikit-learn.org/stable/modules/generated/sklearn.cluster.SpectralClustering.html
+[5]:https://scikit-learn.org/stable/modules/generated/sklearn.cluster.bicluster.SpectralCoclustering.html
