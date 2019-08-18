@@ -16,6 +16,7 @@ Experiements using Google COLAB
   * Image Compression
     * It's better to use grey photo for compression, otherwise `VT` won't have enough dimension to be used in decomposition when it's color photo
     * One thing noticed here is, even when I was trying to use GPU here, a simple notebook like this one will occupy RAM space fast.
+  * https://scikit-learn.org/stable/modules/generated/sklearn.cluster.bicluster.SpectralCoclustering.html
 
 [1]:https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d
 [2]:https://github.com/hanhanwu/Hanhan_COLAB_Experiemnts/blob/master/SVD_intro.ipynb
