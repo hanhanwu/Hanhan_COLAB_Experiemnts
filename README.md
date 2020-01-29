@@ -23,9 +23,15 @@ Experiements using Google COLAB
   * [Used in Spectral CoClustering][5]
     * SVD is used to find singular vectors. It's more straightforward to see SVD used here.
     * But to visualize biclustering here, can be confusing. Biclustering is trying to find the submatrix of the data that has unique patterns. When spectural clustering can be slow, people use biclustering and spectural clustering together.
+    
+* [Graph Feature Extraction with DeepWalk][6]
+  * [Skip-Gram vs CBOW][7]
+    * skip-Gram is tring to predict the context (surrounding nodes/text) given the target node/text, while CBOW is the opposite
 
 [1]:https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d
 [2]:https://github.com/hanhanwu/Hanhan_COLAB_Experiemnts/blob/master/SVD_intro.ipynb
 [3]:https://github.com/hanhanwu/Hanhan_COLAB_Experiemnts/blob/master/SVD_application.ipynb
 [4]:https://scikit-learn.org/stable/modules/generated/sklearn.cluster.SpectralClustering.html
 [5]:https://scikit-learn.org/stable/modules/generated/sklearn.cluster.bicluster.SpectralCoclustering.html
+[6]:https://github.com/hanhanwu/Hanhan_COLAB_Experiemnts/blob/master/Try_DeepWalk.ipynb
+[7]:https://www.kdnuggets.com/2018/04/implementing-deep-learning-methods-feature-engineering-text-data-skip-gram.html
