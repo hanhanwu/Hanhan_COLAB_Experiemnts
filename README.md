@@ -26,7 +26,7 @@ Experiements using Google COLAB
     
 * [Graph Feature Extraction with DeepWalk][6]
   * [Skip-Gram vs CBOW][7]
-    * skip-Gram is tring to predict the context (surrounding nodes/text) given the target node/text, while CBOW is the opposite
+    * skip-Gram is tring to predict the context (surrounding nodes/text) given the target node/text, while CBOW predicts the target node/word given the context
 
 [1]:https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d
 [2]:https://github.com/hanhanwu/Hanhan_COLAB_Experiemnts/blob/master/SVD_intro.ipynb
