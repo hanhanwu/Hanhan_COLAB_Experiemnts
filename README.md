@@ -25,6 +25,7 @@ Experiements using Google COLAB
     * But to visualize biclustering here, can be confusing. Biclustering is trying to find the submatrix of the data that has unique patterns. When spectural clustering can be slow, people use biclustering and spectural clustering together.
     
 * [Graph Feature Extraction with DeepWalk][6]
+  * The basic idea here is to use RandomWalk to extract sequences from the graph, then convert each sequence into a verctor, this vector can be used for model training, such as predict sequences, calculating the similarity between 2 sequences, etc.
   * [Skip-Gram vs CBOW][7]
     * skip-Gram is tring to predict the context (surrounding nodes/text) given the target node/text, while CBOW predicts the target node/word given the context
   * [Params & Relevant Functions for Word2Vec][8]
