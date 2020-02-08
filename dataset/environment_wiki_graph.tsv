@@ -1,0 +1,524 @@
+source	target	depth
+environmental protection	biodiversity	1
+environmental protection	carbon offset	1
+environmental protection	citizen science	1
+environmental protection	conservation biology	1
+environmental protection	conservation movement	1
+environmental protection	earth day	1
+environmental protection	ecology movement	1
+environmental protection	environmentalism	1
+environmental protection	environmental globalization	1
+environmental protection	environmental governance	1
+environmental protection	environmental law	1
+environmental protection	environmental movement	1
+environmental protection	environmental organizations	1
+environmental protection	environmental personhood	1
+environmental protection	environmental racism	1
+environmental protection	green party	1
+environmental protection	green politics	1
+environmental protection	green solutions	1
+environmental protection	natural capital	1
+environmental protection	natural resource management	1
+environmental protection	participation (decision making)	1
+environmental protection	public information and participation	1
+environmental protection	renewable resource	1
+environmental protection	sustainability	1
+environmental protection	sustainable development	1
+sustainable development	agroecology	2
+sustainable development	applied sustainability	2
+sustainable development	biocapacity	2
+sustainable development	circles of sustainability	2
+sustainable development	circular economy	2
+sustainable development	computational sustainability	2
+sustainable development	conservation biology	2
+sustainable development	conservation development	2
+sustainable development	cradle-to-cradle	2
+sustainable development	cultural footprint	2
+sustainable development	development studies	2
+sustainable development	ecological economics	2
+sustainable development	ecological deficit	2
+sustainable development	ecological footprint	2
+sustainable development	ecological modernization	2
+sustainable development	ecologically sustainable development	2
+sustainable development	environmental issue	2
+sustainable development	environmental justice	2
+sustainable development	environmental racism	2
+sustainable development	farmer research committee	2
+sustainable development	gender and development	2
+sustainable development	green development	2
+sustainable development	micro-sustainability	2
+sustainable development	overshoot (population)	2
+sustainable development	purple economy	2
+sustainable development	regenerative design	2
+sustainable development	social sustainability	2
+sustainable development	sustainable coffee	2
+sustainable development	sustainable development goals	2
+sustainable development	sustainable fishery	2
+sustainable development	sustainable forest management	2
+sustainable development	sustainable land management	2
+sustainable development	sustainable living	2
+sustainable development	sustainable redevelopment	2
+sustainable development	sustainable yield	2
+sustainable development	sustainopreneurship	2
+sustainable development	weak and strong sustainability	2
+sustainable development	zero-carbon city	2
+sustainability	bibliography of sustainability	2
+sustainability	computational sustainability	2
+sustainability	foresight (psychology)	2
+sustainability	water footprint	2
+sustainability	agenda 21	2
+sustainability	applied sustainability	2
+sustainability	appropriate technology	2
+sustainability	carfree city	2
+sustainability	circles of sustainability	2
+sustainability	citizen science	2
+sustainability	cradle-to-cradle design	2
+sustainability	ecopsychology	2
+sustainability	environmental issue	2
+sustainability	environmental racism	2
+sustainability	extinction	2
+sustainability	human overpopulation	2
+sustainability	introduced species	2
+sustainability	micro-sustainability	2
+sustainability	population matters	2
+sustainability	resource efficiency	2
+sustainability	sociocultural evolution	2
+sustainability	sustainability and systemic change resistance	2
+sustainability	sustainable capitalism	2
+sustainability	sustainable city	2
+sustainability	sustainable design	2
+sustainability	sustainable development	2
+sustainability	sustainable development goals	2
+sustainability	sustainable forest management	2
+sustainability	sustainable living	2
+sustainability	sustainable sanitation	2
+sustainability	sustainability science	2
+sustainability	sustainability standards and certification	2
+sustainability	sustainability studies	2
+sustainability	world cities summit	2
+renewable resource	exploitation of natural resources	2
+renewable resource	habitat conservation	2
+renewable resource	natural capital	2
+renewable resource	natural resource	2
+renewable resource	non-renewable resource	2
+renewable resource	recycling	2
+renewable resource	resource	2
+renewable resource	seed tree	2
+renewable resource	stewardship	2
+renewable resource	sustainable development	2
+renewable resource	scarcity	2
+public information and participation	accountable autonomy	2
+public information and participation	argument map	2
+public information and participation	collective intelligence	2
+public information and participation	crowdsourcing	2
+public information and participation	e-participation	2
+public information and participation	knowledge deficit	2
+public information and participation	low-information rationality	2
+public information and participation	online participation	2
+public information and participation	public relations	2
+public information and participation	participatory politics	2
+public information and participation	public participation	2
+public information and participation	spatial citizenship	2
+public information and participation	b:development cooperation handbook/the participatory approach	2
+participation (decision making)	accountable autonomy	2
+participation (decision making)	argument map	2
+participation (decision making)	collective intelligence	2
+participation (decision making)	crowdsourcing	2
+participation (decision making)	e-participation	2
+participation (decision making)	knowledge deficit	2
+participation (decision making)	low-information rationality	2
+participation (decision making)	online participation	2
+participation (decision making)	public relations	2
+participation (decision making)	participatory politics	2
+participation (decision making)	public participation	2
+participation (decision making)	spatial citizenship	2
+participation (decision making)	b:development cooperation handbook/the participatory approach	2
+natural resource management	agriculture	2
+natural resource management	agroecology	2
+natural resource management	biodiversity	2
+natural resource management	bioregion	2
+natural resource management	conservation biology	2
+natural resource management	conservation ethic	2
+natural resource management	conservation movement	2
+natural resource management	conservation reliant species	2
+natural resource management	deep ecology	2
+natural resource management	earth science	2
+natural resource management	ecology	2
+natural resource management	ecology movement	2
+natural resource management	ecosystem	2
+natural resource management	environmental movement	2
+natural resource management	environmental organizations	2
+natural resource management	environmental protection	2
+natural resource management	environmental resources management	2
+natural resource management	forestry	2
+natural resource management	global warming	2
+natural resource management	green party	2
+natural resource management	green politics	2
+natural resource management	habitat conservation	2
+natural resource management	holistic management	2
+natural resource management	natural capital	2
+natural resource management	natural environment	2
+natural resource management	natural resource	2
+natural resource management	nature	2
+natural resource management	progressivism	2
+natural resource management	recycling	2
+natural resource management	renewable energy	2
+natural resource management	renewable resource	2
+natural resource management	stewardship	2
+natural resource management	sustainable agriculture	2
+natural resource management	sustainable management	2
+natural capital	bioeconomics (biophysical)	2
+natural capital	biocapacity	2
+natural capital	conservation biology	2
+natural capital	earth economics	2
+natural capital	ecodynamics	2
+natural capital	ecological deficit	2
+natural capital	ecological economics	2
+natural capital	ecological footprint	2
+natural capital	ecology	2
+natural capital	econophysics	2
+natural capital	ecosystem services	2
+natural capital	energy accounting	2
+natural capital	environmental degradation	2
+natural capital	environmental economics	2
+natural capital	environmental protection	2
+natural capital	habitat conservation	2
+natural capital	natural capital accounting	2
+natural capital	natural capital committee	2
+natural capital	natural capital initiative	2
+natural capital	oil depletion	2
+natural capital	payment for ecosystem services	2
+natural capital	population dynamics	2
+natural capital	renewable resource	2
+natural capital	sustainability	2
+natural capital	sustainable development	2
+natural capital	the economics of ecosystems and biodiversity	2
+natural capital	thermoeconomics	2
+green solutions	appropriate technology	2
+green solutions	groasis waterboxx	2
+green solutions	the all-earth ecobot challenge	2
+green solutions	pulser pump	2
+green solutions	environmentally friendly	2
+green solutions	sustainable living	2
+green solutions	sustainable energy	2
+green solutions	sustainable design	2
+green solutions	ecotechnology	2
+green solutions	information and communication technologies for environmental sustainability	2
+green solutions	sustainable engineering	2
+green solutions	sustainable technologies	2
+green solutions	technology for sustainable development	2
+green party	green	2
+green party	chartreuse (color)	2
+environmental racism	antiziganism	2
+environmental racism	cancer alley	2
+environmental racism	climate change and poverty	2
+environmental racism	economic inequality	2
+environmental racism	eco-terrorism	2
+environmental racism	electronic waste	2
+environmental racism	environmental inequality in the united kingdom	2
+environmental racism	environmental justice	2
+environmental racism	environmental policy of the united states	2
+environmental racism	environmental inequality in europe	2
+environmental racism	internalized racism	2
+environmental racism	nimby	2
+environmental racism	environmental dumping	2
+environmental racism	hawks nest tunnel disaster	2
+environmental racism	health inequality and environmental influence	2
+environmental racism	public health problems in the aral sea region	2
+environmental racism	intergenerational equity	2
+environmental racism	planned shrinkage	2
+environmental racism	pollution in the united states	2
+environmental racism	race and health	2
+environmental racism	social inequality	2
+environmental racism	triangle of death (italy)	2
+environmental racism	uranium mining and the navajo people	2
+environmental personhood	corporate personhood	2
+environmental personhood	legal person	2
+environmental personhood	personhood	2
+environmental personhood	whanganui river	2
+environmental personhood	te urewera	2
+environmental organizations	environmentalism	2
+environmental organizations	united nations environment program	2
+environmental organizations	greenpeace	2
+environmental organizations	earth day	2
+environmental movement	ai and environment	2
+environmental movement	anti-consumerism	2
+environmental movement	chemical leasing	2
+environmental movement	carbon neutrality	2
+environmental movement	car-free movement	2
+environmental movement	earth science	2
+environmental movement	eco-anarchism	2
+environmental movement	eco-socialism	2
+environmental movement	ecofascism	2
+environmental movement	ecological economics	2
+environmental movement	ecological modernization	2
+environmental movement	ecopsychology	2
+environmental movement	elizabeth economy	2
+environmental movement	environmental justice	2
+environmental movement	environmental philosophy	2
+environmental movement	free-market environmentalism	2
+environmental movement	green anarchism	2
+environmental movement	green movement	2
+environmental movement	green seniors	2
+environmental movement	green syndicalism	2
+environmental movement	holistic management	2
+environmental movement	national cleanup day	2
+environmental movement	natural environment	2
+environmental movement	political ecology	2
+environmental movement	positive environmentalism	2
+environmental movement	social ecology (theory)	2
+environmental movement	sustainability	2
+environmental movement	sustainability and systemic change resistance	2
+environmental movement	technogaianism	2
+environmental movement	timeline of environmental events	2
+environmental movement	voluntary human extinction movement	2
+environmental law	uk enterprise law	2
+environmental law	environmental racism	2
+environmental law	environmental racism in europe	2
+environmental law	indigenous rights	2
+environmental law	international law	2
+environmental governance	climate governance	2
+environmental governance	ecological modernization	2
+environmental governance	environmental globalization	2
+environmental governance	environmental policy	2
+environmental governance	environmental politics	2
+environmental governance	environmental racism	2
+environmental governance	global governance	2
+environmental governance	political ecology	2
+environmental governance	territorialisation of carbon governance	2
+global warming	anthropocene	1
+global warming	global cooling	1
+global warming	holocene extinction	1
+global warming	planetary boundaries	1
+environmental globalization	natural environment	2
+environmental globalization	united nations climate change conference	2
+environmentalism	conservation ethic	2
+environmentalism	conservation movement	2
+environmentalism	counterculture of the 1960s	2
+environmentalism	bioconservatism	2
+environmentalism	car-free movement	2
+environmentalism	deep ecology	2
+environmentalism	earth day	2
+environmentalism	eco-terrorism	2
+environmentalism	environmental art	2
+environmentalism	environmental law	2
+environmentalism	environmental movement	2
+environmentalism	environmental organization	2
+environmentalism	environmental protection	2
+environmentalism	environmental racism	2
+environmentalism	environmental racism in europe	2
+environmentalism	environmental sociology	2
+environmentalism	environmentalism in music	2
+environmentalism	filmography of environmentalism	2
+environmentalism	free-market environmentalism	2
+environmentalism	green economy	2
+environmentalism	greening	2
+environmentalism	green politics	2
+environmentalism	green washing	2
+environmentalism	ecotax	2
+environmentalism	greenway (landscape)	2
+environmentalism	hairshirt environmentalism	2
+environmentalism	human impact on the environment	2
+environmentalism	linear park	2
+environmentalism	miss earth	2
+environmentalism	national cleanup day	2
+environmentalism	natural resource management	2
+environmentalism	permaculture	2
+environmentalism	population growth	2
+environmentalism	radical environmentalism	2
+environmentalism	religion and environmentalism	2
+environmentalism	slow movement (culture)	2
+environmentalism	sustainability	2
+environmentalism	world cleanup day	2
+ecology movement	ai and environment	2
+ecology movement	anti-consumerism	2
+ecology movement	chemical leasing	2
+ecology movement	carbon neutrality	2
+ecology movement	car-free movement	2
+ecology movement	earth science	2
+ecology movement	eco-anarchism	2
+ecology movement	eco-socialism	2
+ecology movement	ecofascism	2
+ecology movement	ecological economics	2
+ecology movement	ecological modernization	2
+ecology movement	ecopsychology	2
+ecology movement	elizabeth economy	2
+ecology movement	environmental justice	2
+ecology movement	environmental philosophy	2
+ecology movement	free-market environmentalism	2
+ecology movement	green anarchism	2
+ecology movement	green movement	2
+ecology movement	green seniors	2
+ecology movement	green syndicalism	2
+ecology movement	holistic management	2
+ecology movement	national cleanup day	2
+ecology movement	natural environment	2
+ecology movement	political ecology	2
+ecology movement	positive environmentalism	2
+ecology movement	social ecology (theory)	2
+ecology movement	sustainability	2
+ecology movement	sustainability and systemic change resistance	2
+ecology movement	technogaianism	2
+ecology movement	timeline of environmental events	2
+ecology movement	voluntary human extinction movement	2
+earth day	air pollution	2
+earth day	arbor day	2
+earth day	capacity factor	2
+earth day	carbon footprint	2
+earth day	copenhagen accord	2
+earth day	earth (lil dicky song)	2
+earth day	earth charter	2
+earth day	earth hour	2
+earth day	earth strike	2
+earth day	environmental politics	2
+earth day	expo '74	2
+earth day	international day of forests	2
+earth day	international mother earth day	2
+earth day	ipcc fifth assessment report	2
+earth day	live earth	2
+earth day	pale blue dot	2
+earth day	national cleanup day	2
+earth day	paris agreement	2
+earth day	politics of global warming	2
+earth day	under2 coalition	2
+earth day	world environment day	2
+earth day	international year of soil	2
+earth day	world water day	2
+conservation movement	australian grains genebank	2
+conservation movement	conservation biology	2
+conservation movement	conservation ethic	2
+conservation movement	ecology	2
+conservation movement	ecology movement	2
+conservation movement	energy conservation	2
+conservation movement	environmental history	2
+conservation movement	environmental movement	2
+conservation movement	environmental protection	2
+conservation movement	environmentalism	2
+conservation movement	evolution of the conservation movement, 1850–1920	2
+conservation movement	factor 10	2
+conservation movement	forest protection	2
+conservation movement	habitat conservation	2
+conservation movement	marine conservation	2
+conservation movement	natural environment	2
+conservation movement	natural landscape	2
+conservation movement	soil conservation	2
+conservation movement	sustainability	2
+conservation movement	national park service	2
+conservation movement	water conservation	2
+conservation movement	wetland conservation	2
+conservation movement	wildlife conservation	2
+conservation movement	wildlife management	2
+anthropocene	anthropocentrism	2
+anthropocene	anthropogenic biomes	2
+anthropocene	climate engineering	2
+anthropocene	control of fire by early humans	2
+anthropocene	defaunation	2
+anthropocene	ecocriticism	2
+anthropocene	geobiology	2
+anthropocene	great transition	2
+anthropocene	holocene extinction	2
+anthropocene	human overpopulation	2
+anthropocene	international geosphere-biosphere programme	2
+anthropocene	meghalayan	2
+anthropocene	novel ecosystem	2
+anthropocene	overconsumption	2
+anthropocene	planetary boundaries	2
+anthropocene	plastic pollution	2
+anthropocene	power down: options and actions for a post-carbon world	2
+anthropocene	the sixth extinction: an unnatural history	2
+anthropocene	world scientists' warning to humanity	2
+holocene extinction	anthropocentrism	2
+holocene extinction	coextinction	2
+holocene extinction	ecocriticism	2
+holocene extinction	effects of global warming	2
+holocene extinction	extinction symbol	2
+holocene extinction	extinction rebellion	2
+holocene extinction	iucn red list	2
+holocene extinction	late quaternary prehistoric birds	2
+holocene extinction	pleistocene rewilding	2
+holocene extinction	planetary boundaries	2
+holocene extinction	racing extinction	2
+holocene extinction	the anthropocene extinction	2
+holocene extinction	timeline of extinctions in the holocene	2
+planetary boundaries	carbon cycle re-balancing	2
+planetary boundaries	ecological footprint	2
+planetary boundaries	ecological economics	2
+planetary boundaries	gaia hypothesis	2
+planetary boundaries	global catastrophic risk	2
+planetary boundaries	global change	2
+planetary boundaries	great transition	2
+planetary boundaries	holocene extinction	2
+planetary boundaries	human impact on the nitrogen cycle	2
+planetary boundaries	planetary health	2
+planetary boundaries	planetary management	2
+planetary boundaries	steady-state economy	2
+planetary boundaries	the limits to growth	2
+conservation biology	applied ecology	2
+conservation biology	bird observatory	2
+conservation biology	conservation ethic	2
+conservation biology	conservation-reliant species	2
+conservation biology	ecological extinction	2
+conservation biology	gene pool	2
+conservation biology	genetic erosion	2
+conservation biology	genetic pollution	2
+conservation biology	in-situ conservation	2
+conservation biology	indigenous peoples	2
+conservation biology	mutualisms and conservation	2
+conservation biology	natural environment	2
+conservation biology	regional red list	2
+conservation biology	renewable resource	2
+conservation biology	restoration ecology	2
+conservation biology	tyranny of small decisions	2
+conservation biology	water conservation	2
+conservation biology	wildlife disease	2
+conservation biology	wildlife management	2
+conservation biology	world conservation monitoring centre	2
+citizen science	genealogy	2
+citizen science	independent scientist	2
+citizen science	independent scholar	2
+citizen science	open science	2
+citizen science	open-source intelligence	2
+citizen science	open-source lab (book)	2
+citizen science	outsider art	2
+citizen science	participation (decision making)	2
+citizen science	reinventing discovery	2
+citizen science	popular science	2
+citizen science	public participation	2
+citizen science	scientific instrument	2
+citizen science	virtual volunteering	2
+carbon offset	carbon credit	2
+carbon offset	carbon footprint	2
+carbon offset	carbon negative	2
+carbon offset	carbon neutral	2
+carbon offset	carbon project	2
+carbon offset	carbon offsetting and reduction scheme for international aviation	2
+carbon offset	carbon sequestration	2
+carbon offset	carbon retirement	2
+carbon offset	carbon tax	2
+carbon offset	clean development mechanism	2
+carbon offset	gold standard (carbon offset standard)	2
+carbon offset	ecosystem marketplace	2
+carbon offset	emissions trading	2
+carbon offset	mitigation of global warming	2
+carbon offset	personal carbon trading	2
+carbon offset	plantation	2
+carbon offset	renewable energy certificate (united states)	2
+carbon offset	weighted average cost of carbon	2
+carbon offset	zero carbon	2
+biodiversity	australian grains genebank	2
+biodiversity	bioversity international	2
+biodiversity	defaunation	2
+biodiversity	deforestation and climate change	2
+biodiversity	ecological indicator	2
+biodiversity	international day for biological diversity	2
+biodiversity	megadiverse countries	2
+biodiversity	world scientists' warning to humanity	2
+biodiversity	zero-force evolutionary law	2
+global cooling	anti-greenhouse effect	2
+global cooling	global dimming	2
+global cooling	land surface effects on climate	2
+global cooling	global warming	2
+global cooling	history of climate change science	2
+global cooling	volcanic winter	2
+global cooling	next glacial maximum	2
+global cooling	the day after tomorrow	2
