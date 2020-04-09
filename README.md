@@ -9,6 +9,14 @@ Experiements using Google COLAB
   * Although the ipython notebook is in google drive, it doesn't mean you can put image in the same folder and can load directly.
   * A good way is to put images in the same folder or any folder in google drive, then "mount drive". This will add everything in drive into the path from where notebook can load directly.
   <img src="https://github.com/hanhanwu/Hanhan_COLAB_Experiemnts/blob/master/images/mount_drive.PNG" width="40%">
+  
+## Colab Hacks 🌟
+* [Real hacks!][12]
+  * Keyboard shortcuts
+  * How to increase Colab RAM
+  * Stop Colab from disconnecting after 30 mins
+  * Saved code snippets - it's in python notebook format, can be resued as a whole
+  * Modes in Colab - such as dark mode, they even have Corgi and Kitty mode
 
 ## Experiments
 * [About SVD - 3 types of python SVD][2]
@@ -49,3 +57,4 @@ Experiements using Google COLAB
 [9]:https://github.com/hanhanwu/Hanhan_COLAB_Experiemnts/blob/master/dataset/environment_wiki_graph.tsv
 [10]:https://github.com/hanhanwu/Hanhan_COLAB_Experiemnts/blob/master/tensorflow2_training_day1.ipynb
 [11]:https://www.tensorflow.org/api_docs/python/tf/data/Dataset
+[12]:https://www.analyticsvidhya.com/blog/2020/04/5-amazing-google-colab-hacks-you-should-try-today/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29
