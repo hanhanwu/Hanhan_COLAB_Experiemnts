@@ -16,7 +16,7 @@ Experiements using Google COLAB
   * How to increase Colab RAM
   * Stop Colab from disconnecting after 30 mins
   * Saved code snippets - it's in python notebook format, can be resued as a whole
-  * Modes in Colab - such as dark mode, they even have Corgi and Kitty mode
+  * Modes in Colab - such as dark mode, they even have Corgi and Kitty mode, the puppies and the cats are moving! That's cool!
 
 ## Experiments
 * [About SVD - 3 types of python SVD][2]
