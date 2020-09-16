@@ -49,6 +49,9 @@ Experiements using Google COLAB
 * [Graph DB - Link Prediction][13]
   * Train a model to predict whether 2nodes will be connected or not
   * Needs label data and also assumes the unconnected nodes won't be connected...
+  
+* [Graph DB - Build Directional Graph][14]
+  * Some basics aabout how to build directional graph with edge weights
 
 [1]:https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d
 [2]:https://github.com/hanhanwu/Hanhan_COLAB_Experiemnts/blob/master/SVD_intro.ipynb
@@ -63,3 +66,4 @@ Experiements using Google COLAB
 [11]:https://www.tensorflow.org/api_docs/python/tf/data/Dataset
 [12]:https://www.analyticsvidhya.com/blog/2020/04/5-amazing-google-colab-hacks-you-should-try-today/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29
 [13]:https://github.com/hanhanwu/Hanhan_COLAB_Experiemnts/blob/master/link_prediction.ipynb
+[14]:https://github.com/hanhanwu/Hanhan_COLAB_Experiemnts/blob/master/directional_graphDB.ipynb
