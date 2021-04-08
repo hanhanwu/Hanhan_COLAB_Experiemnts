@@ -11,6 +11,8 @@ Experiements using Google COLAB
   <img src="https://github.com/hanhanwu/Hanhan_COLAB_Experiemnts/blob/master/images/mount_drive.PNG" width="40%">
   
 ## Colab Hacks 🌟
+* [How to download large data from a link and unzip the data][16]
+  * Sometimes download to your local and then upload to colab might change the data format, better do this
 * [Real hacks!][12]
   * Keyboard shortcuts
   * How to increase Colab RAM
@@ -71,3 +73,4 @@ Experiements using Google COLAB
 [13]:https://github.com/hanhanwu/Hanhan_COLAB_Experiemnts/blob/master/link_prediction.ipynb
 [14]:https://github.com/hanhanwu/Hanhan_COLAB_Experiemnts/blob/master/directional_graphDB.ipynb
 [15]:https://github.com/hanhanwu/Hanhan_COLAB_Experiemnts/blob/master/spark_colab.ipynb
+[16]:https://colab.research.google.com/drive/1JwDl3HZ9SfvV5crtjbuFPaU_T7Q1y34w?usp=sharing#scrollTo=BuM8UGy5lJu2
