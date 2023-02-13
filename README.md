@@ -21,6 +21,7 @@ Experiements using Google COLAB
   * Modes in Colab - such as dark mode, they even have Corgi and Kitty mode, the puppies and the cats are moving! That's cool!
 
 ## Experiments
+* [Practicing Optimization Problems with Pyomo][17]
 * [About SVD - 3 types of python SVD][2]
 * [SVD Application][3]
   * Image Compression
@@ -74,3 +75,4 @@ Experiements using Google COLAB
 [14]:https://github.com/hanhanwu/Hanhan_COLAB_Experiemnts/blob/master/directional_graphDB.ipynb
 [15]:https://github.com/hanhanwu/Hanhan_COLAB_Experiemnts/blob/master/spark_colab.ipynb
 [16]:https://colab.research.google.com/drive/1JwDl3HZ9SfvV5crtjbuFPaU_T7Q1y34w?usp=sharing#scrollTo=BuM8UGy5lJu2
+[17]:https://github.com/hanhanwu/Hanhan_COLAB_Experiemnts/tree/master/optimization_practice
