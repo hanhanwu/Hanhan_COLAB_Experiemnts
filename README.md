@@ -9,6 +9,7 @@ Experiements using Google COLAB
   * Although the ipython notebook is in google drive, it doesn't mean you can put image in the same folder and can load directly.
   * A good way is to put images in the same folder or any folder in google drive, then "mount drive". This will add everything in drive into the path from where notebook can load directly.
   <img src="https://github.com/hanhanwu/Hanhan_COLAB_Experiemnts/blob/master/images/mount_drive.PNG" width="40%">
+
   
 ## Colab Hacks 🌟
 * [How to download large data from a link and unzip the data][16]
@@ -19,11 +20,14 @@ Experiements using Google COLAB
   * Stop Colab from disconnecting after 30 mins
   * Saved code snippets - it's in python notebook format, can be resued as a whole
   * Modes in Colab - such as dark mode, they even have Corgi and Kitty mode, the puppies and the cats are moving! That's cool!
+
  
 ## LLM Experiments
 * [Try LlamaParse][22]
   * Llama Cloud also provide Parse UI where you can drag the file to parse content.
   * Free plan supports free 1000 pages daily, but the "page" here is not the page in PDF file, seems smaller than that
+  * [Data input][24] came from [Notice of 2024 Annual Meeting of Stockholders and Proxy Statement][23]
+
 
 ## Experiments
 * [Practicing Optimization Problems with Pyomo][17]
@@ -88,3 +92,5 @@ Experiements using Google COLAB
 [20]:https://docs.scipy.org/doc/scipy/reference/optimize.html#optimization
 [21]:https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.minimize_scalar.html
 [22]:https://github.com/hanhanwu/Hanhan_COLAB_Experiemnts/blob/master/try_llamaparse.ipynb
+[23]:https://ir.pdf.com/static-files/094e56d1-e4b8-4b50-a8b5-3eb723434de6
+[24]:https://github.com/hanhanwu/Hanhan_COLAB_Experiemnts/blob/master/dataset/simplified_proxy_statement.pdf
