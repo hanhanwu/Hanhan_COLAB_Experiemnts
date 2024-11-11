@@ -26,7 +26,6 @@ Experiements using Google COLAB
 * [Try LlamaParse][22]
   * Llama Cloud also provide Parse UI where you can drag the file to parse content.
   * Free plan supports free 1000 pages daily, but the "page" here is not the page in PDF file, seems smaller than that
-  * [Data input][24] came from [Notice of 2024 Annual Meeting of Stockholders and Proxy Statement][23]
 
 
 ## Experiments
