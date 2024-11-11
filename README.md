@@ -19,6 +19,11 @@ Experiements using Google COLAB
   * Stop Colab from disconnecting after 30 mins
   * Saved code snippets - it's in python notebook format, can be resued as a whole
   * Modes in Colab - such as dark mode, they even have Corgi and Kitty mode, the puppies and the cats are moving! That's cool!
+ 
+## LLM Experiments
+* [Try LlamaParse][22]
+  * Llama Cloud also provide Parse UI where you can drag the file to parse content.
+  * Free plan supports free 1000 pages daily, but the "page" here is not the page in PDF file, seems smaller than that
 
 ## Experiments
 * [Practicing Optimization Problems with Pyomo][17]
@@ -82,3 +87,4 @@ Experiements using Google COLAB
 [19]:https://github.com/jckantor/ND-Pyomo-Cookbook/blob/main/notebooks/06.02-Maximizing-Concentration-of-an-Intermediate-in-a-Batch-Reactor.ipynb
 [20]:https://docs.scipy.org/doc/scipy/reference/optimize.html#optimization
 [21]:https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.minimize_scalar.html
+[22]:https://github.com/hanhanwu/Hanhan_COLAB_Experiemnts/blob/master/try_llamaparse.ipynb
