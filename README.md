@@ -23,9 +23,11 @@ Experiements using Google COLAB
 
  
 ## LLM Experiments
-* [Try LlamaParse][22]
+* [Try LlamaParse to parse PDF and Q&A][22]
   * Llama Cloud also provide Parse UI where you can drag the file to parse content.
   * Free plan supports free 1000 pages daily, but the "page" here is not the page in PDF file, seems smaller than that
+ 
+* [Try PyMuPDF to parse PDF and LlamaIndex for Q&A][25]
 
 
 ## Experiments
@@ -93,3 +95,4 @@ Experiements using Google COLAB
 [22]:https://github.com/hanhanwu/Hanhan_COLAB_Experiemnts/blob/master/try_llamaparse.ipynb
 [23]:https://ir.pdf.com/static-files/094e56d1-e4b8-4b50-a8b5-3eb723434de6
 [24]:https://github.com/hanhanwu/Hanhan_COLAB_Experiemnts/blob/master/dataset/simplified_proxy_statement.pdf
+[25]:https://github.com/hanhanwu/Hanhan_COLAB_Experiemnts/blob/master/try_pymupdf.ipynb
