@@ -23,11 +23,15 @@ Experiements using Google COLAB
 
  
 ## LLM Experiments
-* [Try LlamaParse to parse PDF and Q&A][22]
-  * Llama Cloud also provide Parse UI where you can drag the file to parse content.
-  * Free plan supports free 1000 pages daily, but the "page" here is not the page in PDF file, seems smaller than that
- 
-* [Try PyMuPDF to parse PDF and LlamaIndex for Q&A][25]
+* LlamaParse vs PyMuPDF
+  * Comparison Notes
+    * LlamaParse Premimum has better PDF parsing quality, especailly for nested tables.
+    * If want to use RAG, LlamaParse is defnitely a better choice.
+    * To use LlamaParse for free, there's daily limitation, but PyMuPDF is always free.
+  * [Try LlamaParse to parse PDF and Q&A][22]
+    * Llama Cloud also provide Parse UI where you can drag the file to parse content.
+    * Free plan supports free 1000 pages daily, but the "page" here is not the page in PDF file, seems smaller than that
+  * [Try PyMuPDF to parse PDF and LlamaIndex for Q&A][25]
 
 
 ## Experiments
